@@ -1,6 +1,6 @@
 
 #!/bin/bash
 set -e
-
-echo "Starting Application ..."
+echo "List of files"
+ls
 node index.js
