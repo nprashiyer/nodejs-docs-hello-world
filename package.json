@@ -6,6 +6,6 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
-        "start": "/prisma/defender app-embedded init.sh"
+        "start": "/prisma/defender app-embedded node index.js"
     }
 }
